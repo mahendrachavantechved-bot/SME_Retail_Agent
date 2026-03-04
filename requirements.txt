@@ -1,0 +1,6 @@
+flet
+plotly
+pandas
+pyvis
+requests
+pyinstaller
